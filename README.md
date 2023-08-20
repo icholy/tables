@@ -1,4 +1,4 @@
-My friend requested that I 3D print table numbers for her wedding. This ended up being more involved than I anticipated, so I’m documenting the process and sharing the models here in hopes that it will save someone a bit of time.
+A friend requested that I 3D print table numbers for their wedding. This ended up being more involved than I anticipated, so I’m documenting the process and sharing the models here in hopes that it will save someone a bit of time.
 
 ![](images/output.jpg)
 
