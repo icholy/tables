@@ -26,6 +26,8 @@ I then used the extrude tool to turn the sketch into a 6mm deep part:
 
 ![](images/onshape_03.png)
 
+**Note:** It's been brought to my attention that OnShape is not the best tool for the job.
+
 ## Printing
 
 After exporting the part from OnShape as an STL file, I printed it on my P1P using basic PLA with the default profile.
