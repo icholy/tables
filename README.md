@@ -8,7 +8,7 @@ I assumed there would be many, readily available, fonts resembling the example i
 
 ### Vectorization
 
-The images needed to be converted to a format that a 3D modeling tool can import. Specifically, we need to convert the bitmap images into vector files. Inkscape has a **Trace Bitmap** tool for this exact purpose. In several cases, manual adjustments needed to be made. I then exported these in DXF (R14 w/LWPOLYLINE) format which OnShape supports.
+The images needed to be converted to a format that a 3D modeling tool can import. Specifically, we need to convert the bitmap images into vector files. Inkscape has a **Trace Bitmap** tool for this exact purpose. In several cases, manual adjustments needed to be made. I then exported these in DXF format which OnShape supports. Be sure to export to the AutoCAD R14 version with LWPOLYLINE mode, R12 will result in jagged edges.
 
 ![](images/inkscape.png)
 
