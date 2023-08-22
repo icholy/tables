@@ -7541,7 +7541,7 @@ endsolid Mesh
 
 ## Printing
 
-After exporting the part from OnShape as an STL file, I printed it on my P1P using basic PLA with the default profile. Make sure to print the numbers face-down to get a clean and consistent finish on the top surface.
+After exporting the part from OnShape as an STL file, I printed it on my P1P using basic PLA with the default profile. If you have a smooth build plate, make sure to print the numbers face-down to get a clean and consistent finish on the top surface.
 
 ![](images/bambustudio.png)
 
