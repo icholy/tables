@@ -16,15 +16,15 @@ The images needed to be converted to a format that a 3D modeling tool can import
 
 ## 3D Models
 
-Once we have the DXF vector files, we can bring them into an [OnShape](https://www.onshape.com) sketch:
+Once we have the DXF vector files, we can bring them into an [OnShape](https://www.onshape.com) sketch. 
 
 ![](images/onshape_01.png)
 
-I then used the dimension tool to scale it down to 3 inches tall:
+I then used the dimension tool to scale it down to 3 inches tall. The 3 inch dimention was slighly altered per-number to compensate for the variable heights of the starting characters.
 
 ![](images/onshape_02.png)
 
-I then used the extrude tool to turn the sketch into a 6mm deep part:
+I then used the extrude tool to turn the sketch into a 6mm deep part. If you're wondering why I'm mixing metric and emperial units in this guide, I don't have a good answer for you.
 
 ![](images/onshape_03.png)
 
@@ -7541,7 +7541,7 @@ endsolid Mesh
 
 ## Printing
 
-After exporting the part from OnShape as an STL file, I printed it on my P1P using basic PLA with the default profile.
+After exporting the part from OnShape as an STL file, I printed it on my P1P using basic PLA with the default profile. Make sure to print the numbers face-down to get a clean and consistent finish on the top surface.
 
 ![](images/bambustudio.png)
 
